@@ -18,10 +18,30 @@
 This repository preserves the complete research logs, linguistic fieldwork, and methodological insights behind the **Lackadaisical Security Rohonc Codex Decipherment Project** – a groundbreaking investigation revealing the true identity of one of history's most debated mystery manuscripts: a 16th-century Vlach-Romanian Christian chronicle encoded in a sophisticated rotational cipher.
 
 **Decipherment Status:** ✅ **COMPLETE - 99.2% Confidence**
-**Research Period:** 2025 Decipherment Sessions
+**First Pass:** August 20, 2025 (single session)
+**Second Pass:** March 24, 2026
 **Archaeological Context:** 16th-century CE Hungary / Transylvania (1530–1600 estimated)
-**Last Updated:** 2026
+**Last Updated:** March 24, 2026
+
+> 🔗 **For the latest decipherment updates and announcements, visit:**
 > **[Lackadaisical Security Decipherment Drops](https://lackadaisical-security.com/decipherment-drops.html)**
+
+---
+
+## 🆕 Latest Updates
+
+### March 24, 2026 – Second Pass Complete
+- ✅ **Full second-pass validation** across all research phases
+- ✅ **Second Pass Phase logs released** – deep re-analysis and advanced integration (Phases 1–10 + Final Conclusion)
+- ✅ **README overhaul** – structured documentation release
+
+### August 20, 2025 – Initial Decipherment (Single Session)
+- ✅ **Complete first-pass decipherment** – all 6 phases completed in a single session
+- ✅ **42-symbol rotational cipher cracked** – 792 variants reduced to base system
+- ✅ **Language confirmed:** Old Romanian (Vlach dialect)
+- ✅ **Author identified:** Brother Gheorghe of Alba Iulia (c. 1543)
+- ✅ **87 illustrations decoded**, 30+ historical events mapped
+- ✅ **Lexicon compiled:** 3,247 unique words
 
 ---
 
@@ -47,7 +67,7 @@ We are giving you the tools to achieve what we have — and perhaps finish what 
 
 ## 🎯 Major Achievement
 
-The Rohonc Codex, a 448-page mystery manuscript housed at the Hungarian Academy of Sciences in Budapest, has been successfully decoded using the **Universal Ancient Script Decipherment Framework v20.0**. The 200-year-old enigma is resolved: the codex is a genuine Vlach-Romanian Christian chronicle written by a 16th-century Orthodox monk-chaplain in a deliberate rotational cipher.
+The Rohonc Codex, a 448-page mystery manuscript housed at the Hungarian Academy of Sciences in Budapest, has been successfully decoded using the **Universal Ancient Script Decipherment Framework v20.0**. The 200-year-old enigma is resolved in a single session on August 20, 2025: the codex is a genuine Vlach-Romanian Christian chronicle written by a 16th-century Orthodox monk-chaplain in a deliberate rotational cipher. A full second-pass validation was completed on March 24, 2026.
 
 ### Key Accomplishments
 
@@ -397,7 +417,7 @@ This Rohonc Codex decipherment is part of Lackadaisical Security's broader ancie
 ---
 
 **Document Classification:** Academic Research - Open Access (with attribution requirements)
-**Last Updated:** 2026
+**Last Updated:** March 24, 2026
 **Repository Status:** Complete - Decipherment Achieved
 **Lead Researcher:** Lackadaisical Security - The Operator
 **Methodology:** Universal Decipherment V20
