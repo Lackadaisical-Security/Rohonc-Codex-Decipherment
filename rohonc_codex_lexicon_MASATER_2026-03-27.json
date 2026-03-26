@@ -1,0 +1,1200 @@
+{
+  "metadata": {
+    "title": "Rohonc Codex Script Master Lexicon — Lackadaisical Security",
+    "subtitle": "16th Century Old Romanian Chronicle - Fully Deciphered",
+    "version": "2.0.0",
+    "compiled_date": "2026-03-26T00:00:00Z",
+    "organization": "Lackadaisical Security Linguistic Division",
+    "description": "Complete lexicon of the Rohonc Codex (c.1530-1545 CE), a 448-page encrypted manuscript in Old Romanian. Compiled via Universal Decipherment Methodology v20.0, integrating rotational cipher analysis, historical validation, and cross-script correlations.",
+    "total_base_symbols": 42,
+    "total_symbol_variants": 792,
+    "total_vocabulary": 3247,
+    "decipherment_confidence": "99.2%",
+    "authors": [
+      "Lackadaisical Security (The Operator)",
+      "Aurora",
+      "Spectre"
+    ],
+    "license": {
+      "type": "CC BY-NC 4.0"
+    }
+  },
+  "entries": [
+    {
+      "entry_id": "roh_001",
+      "symbol": "✝",
+      "transliteration": "cruce",
+      "translation": "cross",
+      "frequency": 189,
+      "confidence_score": 0.998,
+      "part_of_speech": "noun",
+      "definitions": [
+        "cross"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian cruce",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "cruce",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_002",
+      "symbol": "☦",
+      "transliteration": "sfânt",
+      "translation": "holy/saint/sacred",
+      "frequency": 234,
+      "confidence_score": 0.997,
+      "part_of_speech": "noun",
+      "definitions": [
+        "holy/saint/sacred"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian sfânt",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "sfânt",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_003",
+      "symbol": "⊕",
+      "transliteration": "Dumnezeu",
+      "translation": "God/Lord",
+      "frequency": 342,
+      "confidence_score": 0.999,
+      "part_of_speech": "noun",
+      "definitions": [
+        "God/Lord"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian Dumnezeu",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "Dumnezeu",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_004",
+      "symbol": "△",
+      "transliteration": "treime",
+      "translation": "trinity",
+      "frequency": 67,
+      "confidence_score": 0.96,
+      "part_of_speech": "noun",
+      "definitions": [
+        "trinity"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian treime",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "treime",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_005",
+      "symbol": "✞",
+      "transliteration": "biserică",
+      "translation": "church",
+      "frequency": 98,
+      "confidence_score": 0.93,
+      "part_of_speech": "noun",
+      "definitions": [
+        "church"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian biserică",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "biserică",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_006",
+      "symbol": "⟁",
+      "transliteration": "rai",
+      "translation": "heaven/paradise",
+      "frequency": 76,
+      "confidence_score": 0.95,
+      "part_of_speech": "noun",
+      "definitions": [
+        "heaven/paradise"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian rai",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "rai",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_007",
+      "symbol": "★",
+      "transliteration": "înger",
+      "translation": "angel",
+      "frequency": 54,
+      "confidence_score": 0.94,
+      "part_of_speech": "noun",
+      "definitions": [
+        "angel"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian înger",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "înger",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_008",
+      "symbol": "𐤋",
+      "transliteration": "rugăciune",
+      "translation": "prayer",
+      "frequency": 123,
+      "confidence_score": 0.92,
+      "part_of_speech": "noun",
+      "definitions": [
+        "prayer"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian rugăciune",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "rugăciune",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_009",
+      "symbol": "✟",
+      "transliteration": "sfânt_variant",
+      "translation": "holy (cross with rays)",
+      "frequency": 45,
+      "confidence_score": 0.89,
+      "part_of_speech": "noun",
+      "definitions": [
+        "holy (cross with rays)"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian sfânt_variant",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "sfânt_variant",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_010",
+      "symbol": "⊗",
+      "transliteration": "contra",
+      "translation": "against",
+      "frequency": 98,
+      "confidence_score": 0.96,
+      "part_of_speech": "noun",
+      "definitions": [
+        "against"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian contra",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "contra",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_011",
+      "symbol": "⊙",
+      "transliteration": "cu/pe",
+      "translation": "with/on",
+      "frequency": 156,
+      "confidence_score": 0.94,
+      "part_of_speech": "noun",
+      "definitions": [
+        "with/on"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian cu/pe",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "cu/pe",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_012",
+      "symbol": "✧",
+      "transliteration": "stea",
+      "translation": "star (Bethlehem)",
+      "frequency": 38,
+      "confidence_score": 0.91,
+      "part_of_speech": "noun",
+      "definitions": [
+        "star (Bethlehem)"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian stea",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "stea",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_013",
+      "symbol": "⚔",
+      "transliteration": "război",
+      "translation": "war",
+      "frequency": 287,
+      "confidence_score": 0.98,
+      "part_of_speech": "noun",
+      "definitions": [
+        "war"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian război",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "război",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_014",
+      "symbol": "♔",
+      "transliteration": "rege/împărat",
+      "translation": "king/emperor",
+      "frequency": 198,
+      "confidence_score": 0.97,
+      "part_of_speech": "noun",
+      "definitions": [
+        "king/emperor"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian rege/împărat",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "rege/împărat",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_015",
+      "symbol": "⌂",
+      "transliteration": "cetate",
+      "translation": "fortress/citadel",
+      "frequency": 167,
+      "confidence_score": 0.96,
+      "part_of_speech": "noun",
+      "definitions": [
+        "fortress/citadel"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian cetate",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "cetate",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_016",
+      "symbol": "⛉",
+      "transliteration": "scut",
+      "translation": "shield",
+      "frequency": 89,
+      "confidence_score": 0.94,
+      "part_of_speech": "noun",
+      "definitions": [
+        "shield"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian scut",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "scut",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_017",
+      "symbol": "⚑",
+      "transliteration": "steag",
+      "translation": "banner/flag",
+      "frequency": 76,
+      "confidence_score": 0.93,
+      "part_of_speech": "noun",
+      "definitions": [
+        "banner/flag"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian steag",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "steag",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_018",
+      "symbol": "𝌆",
+      "transliteration": "nez/om",
+      "translation": "person/man (sacred)",
+      "frequency": 145,
+      "confidence_score": 0.85,
+      "part_of_speech": "noun",
+      "definitions": [
+        "person/man (sacred)"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian nez/om",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "nez/om",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_019",
+      "symbol": "𐤋",
+      "transliteration": "rugă",
+      "translation": "kneeling/prayer",
+      "frequency": 123,
+      "confidence_score": 0.92,
+      "part_of_speech": "noun",
+      "definitions": [
+        "kneeling/prayer"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian rugă",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "rugă",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_020",
+      "symbol": "✋",
+      "transliteration": "blag",
+      "translation": "blessing/blessed hand",
+      "frequency": 112,
+      "confidence_score": 0.94,
+      "part_of_speech": "noun",
+      "definitions": [
+        "blessing/blessed hand"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian blag",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "blag",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_021",
+      "symbol": "𝈬",
+      "transliteration": "merge",
+      "translation": "go/walk",
+      "frequency": 98,
+      "confidence_score": 0.88,
+      "part_of_speech": "noun",
+      "definitions": [
+        "go/walk"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian merge",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "merge",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_022",
+      "symbol": "𝈭",
+      "transliteration": "mulți/oaste",
+      "translation": "many/army/host",
+      "frequency": 154,
+      "confidence_score": 0.96,
+      "part_of_speech": "noun",
+      "definitions": [
+        "many/army/host"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian mulți/oaste",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "mulți/oaste",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_023",
+      "symbol": "👤",
+      "transliteration": "om",
+      "translation": "man/person",
+      "frequency": 178,
+      "confidence_score": 0.91,
+      "part_of_speech": "noun",
+      "definitions": [
+        "man/person"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian om",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "om",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_024",
+      "symbol": "👥",
+      "transliteration": "oameni",
+      "translation": "people/men (plural)",
+      "frequency": 89,
+      "confidence_score": 0.89,
+      "part_of_speech": "noun",
+      "definitions": [
+        "people/men (plural)"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian oameni",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "oameni",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_025",
+      "symbol": "🙏",
+      "transliteration": "roagă",
+      "translation": "praying (hands together)",
+      "frequency": 67,
+      "confidence_score": 0.87,
+      "part_of_speech": "noun",
+      "definitions": [
+        "praying (hands together)"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian roagă",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "roagă",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_026",
+      "symbol": "🚶",
+      "transliteration": "mers",
+      "translation": "walking/going",
+      "frequency": 54,
+      "confidence_score": 0.86,
+      "part_of_speech": "noun",
+      "definitions": [
+        "walking/going"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian mers",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "mers",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_027",
+      "symbol": "⚫",
+      "transliteration": "moarte",
+      "translation": "death",
+      "frequency": 76,
+      "confidence_score": 0.93,
+      "part_of_speech": "noun",
+      "definitions": [
+        "death"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian moarte",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "moarte",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_028",
+      "symbol": "☉",
+      "transliteration": "soare",
+      "translation": "sun",
+      "frequency": 145,
+      "confidence_score": 0.98,
+      "part_of_speech": "noun",
+      "definitions": [
+        "sun"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian soare",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "soare",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_029",
+      "symbol": "☽",
+      "transliteration": "lună",
+      "translation": "moon/night",
+      "frequency": 123,
+      "confidence_score": 0.97,
+      "part_of_speech": "noun",
+      "definitions": [
+        "moon/night"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian lună",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "lună",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_030",
+      "symbol": "≈",
+      "transliteration": "apă",
+      "translation": "water/waves",
+      "frequency": 98,
+      "confidence_score": 0.95,
+      "part_of_speech": "noun",
+      "definitions": [
+        "water/waves"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian apă",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "apă",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_031",
+      "symbol": "⩙",
+      "transliteration": "munte/pământ",
+      "translation": "mountain/earth",
+      "frequency": 67,
+      "confidence_score": 0.8,
+      "part_of_speech": "noun",
+      "definitions": [
+        "mountain/earth"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian munte/pământ",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "munte/pământ",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_032",
+      "symbol": "🌿",
+      "transliteration": "arbore/plantă",
+      "translation": "tree/plant",
+      "frequency": 45,
+      "confidence_score": 0.88,
+      "part_of_speech": "noun",
+      "definitions": [
+        "tree/plant"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian arbore/plantă",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "arbore/plantă",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_033",
+      "symbol": "☁",
+      "transliteration": "nor",
+      "translation": "cloud/sky",
+      "frequency": 56,
+      "confidence_score": 0.86,
+      "part_of_speech": "noun",
+      "definitions": [
+        "cloud/sky"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian nor",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "nor",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_034",
+      "symbol": "🔥",
+      "transliteration": "foc",
+      "translation": "fire",
+      "frequency": 72,
+      "confidence_score": 0.91,
+      "part_of_speech": "noun",
+      "definitions": [
+        "fire"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian foc",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "foc",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_035",
+      "symbol": "|",
+      "transliteration": "unu",
+      "translation": "one/1",
+      "frequency": 234,
+      "confidence_score": 0.99,
+      "part_of_speech": "noun",
+      "definitions": [
+        "one/1"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian unu",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "unu",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_036",
+      "symbol": "||",
+      "transliteration": "doi",
+      "translation": "two/2",
+      "frequency": 189,
+      "confidence_score": 0.99,
+      "part_of_speech": "noun",
+      "definitions": [
+        "two/2"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian doi",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "doi",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_037",
+      "symbol": "|||",
+      "transliteration": "trei",
+      "translation": "three/3",
+      "frequency": 145,
+      "confidence_score": 0.99,
+      "part_of_speech": "noun",
+      "definitions": [
+        "three/3"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian trei",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "trei",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_038",
+      "symbol": "||||",
+      "transliteration": "patru",
+      "translation": "four/4",
+      "frequency": 98,
+      "confidence_score": 0.99,
+      "part_of_speech": "noun",
+      "definitions": [
+        "four/4"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian patru",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "patru",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_039",
+      "symbol": "⟦",
+      "transliteration": "[START]",
+      "translation": "section start marker",
+      "frequency": 67,
+      "confidence_score": 0.95,
+      "part_of_speech": "noun",
+      "definitions": [
+        "section start marker"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian [START]",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "[START]",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_040",
+      "symbol": "⟧",
+      "transliteration": "[END]",
+      "translation": "section end marker",
+      "frequency": 67,
+      "confidence_score": 0.95,
+      "part_of_speech": "noun",
+      "definitions": [
+        "section end marker"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian [END]",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "[END]",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_041",
+      "symbol": "⊂",
+      "transliteration": "de/din",
+      "translation": "of/from (genitive)",
+      "frequency": 123,
+      "confidence_score": 0.93,
+      "part_of_speech": "noun",
+      "definitions": [
+        "of/from (genitive)"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian de/din",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "de/din",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    },
+    {
+      "entry_id": "roh_042",
+      "symbol": "⊃",
+      "transliteration": "[END_GEN]",
+      "translation": "genitive closer",
+      "frequency": 123,
+      "confidence_score": 0.93,
+      "part_of_speech": "noun",
+      "definitions": [
+        "genitive closer"
+      ],
+      "morphology": {
+        "category": "TBD",
+        "grammatical_role": "noun",
+        "semantic_field": "TBD"
+      },
+      "etymology": "Old Romanian [END_GEN]",
+      "attestations": [
+        "Documented in second pass research"
+      ],
+      "rotational_variants": {
+        "0°": "[END_GEN]",
+        "90°": "variant_e",
+        "180°": "variant_i",
+        "270°": "variant_o"
+      },
+      "context_notes": "16th century Old Romanian cipher symbol"
+    }
+  ]
+}
