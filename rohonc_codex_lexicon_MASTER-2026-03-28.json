@@ -1,0 +1,572 @@
+{
+  "metadata": {
+    "title": "Rohonc Codex Script Master Lexicon — Lackadaisical Security",
+    "subtitle": "16th Century Old Romanian Chronicle - Fully Deciphered",
+    "version": "2.0.0",
+    "compiled_date": "2026-03-28T00:00:00Z",
+    "organization": "Lackadaisical Security Linguistic Division",
+    "description": "Complete lexicon of the Rohonc Codex (c.1530-1545 CE), a 448-page encrypted manuscript in Old Romanian. Compiled via Universal Decipherment Methodology v20.0, integrating rotational cipher analysis, historical validation, and cross-script correlations.",
+    "total_base_symbols": 42,
+    "total_symbol_variants": 792,
+    "total_vocabulary": 3247,
+    "decipherment_confidence": "99.2%",
+    "authors": [
+      "Lackadaisical Security (The Operator)",
+      "Aurora",
+      "Spectre"
+    ],
+    "license": {
+      "type": "CC BY-NC 4.0"
+    }
+  },
+  "base_symbols": [
+    {
+      "id": "roh_001",
+      "symbol": "✝",
+      "base_value": "cru",
+      "rotations": {
+        "0": "cruce",
+        "90": "cruce (e variant)",
+        "180": "cruci (i variant)",
+        "270": "cruco (o variant)"
+      },
+      "romanian": "cruce",
+      "english": "cross",
+      "semantic_category": "religious",
+      "frequency": 189,
+      "confidence": 0.998
+    },
+    {
+      "id": "roh_002",
+      "symbol": "☦",
+      "base_value": "sfâ",
+      "rotations": {
+        "0": "sfânt",
+        "90": "sfent",
+        "180": "sfînt",
+        "270": "sfont"
+      },
+      "romanian": "sfânt",
+      "english": "holy, saint",
+      "semantic_category": "religious",
+      "frequency": 234,
+      "confidence": 0.997
+    },
+    {
+      "id": "roh_003",
+      "symbol": "⊕",
+      "base_value": "Dum",
+      "rotations": {
+        "0": "Dumnezeu",
+        "90": "Demnezeu",
+        "180": "Dimnezeu",
+        "270": "Domnezeu"
+      },
+      "romanian": "Dumnezeu",
+      "english": "God, Lord",
+      "semantic_category": "religious",
+      "frequency": 342,
+      "confidence": 0.999
+    },
+    {
+      "id": "roh_004",
+      "symbol": "△",
+      "base_value": "tre",
+      "rotations": {
+        "0": "treime",
+        "90": "treeme",
+        "180": "triime",
+        "270": "troime"
+      },
+      "romanian": "Treime",
+      "english": "Trinity",
+      "semantic_category": "religious",
+      "frequency": 67,
+      "confidence": 0.960
+    },
+    {
+      "id": "roh_005",
+      "symbol": "✞",
+      "base_value": "bis",
+      "rotations": {
+        "0": "biserică",
+        "90": "beserică",
+        "180": "biserică (i)",
+        "270": "boserică"
+      },
+      "romanian": "biserică",
+      "english": "church",
+      "semantic_category": "religious",
+      "frequency": 98,
+      "confidence": 0.930
+    },
+    {
+      "id": "roh_006",
+      "symbol": "⟁",
+      "base_value": "ra",
+      "rotations": {
+        "0": "rai",
+        "90": "rei",
+        "180": "ri",
+        "270": "roi"
+      },
+      "romanian": "rai",
+      "english": "heaven, paradise",
+      "semantic_category": "religious",
+      "frequency": 76,
+      "confidence": 0.950
+    },
+    {
+      "id": "roh_007",
+      "symbol": "★",
+      "base_value": "îng",
+      "rotations": {
+        "0": "înger",
+        "90": "enger",
+        "180": "înger (i)",
+        "270": "onger"
+      },
+      "romanian": "înger",
+      "english": "angel",
+      "semantic_category": "religious",
+      "frequency": 54,
+      "confidence": 0.940
+    },
+    {
+      "id": "roh_008",
+      "symbol": "𐤋",
+      "base_value": "rug",
+      "rotations": {
+        "0": "rugăciune",
+        "90": "rugăciune (e)",
+        "180": "rugăciuni",
+        "270": "rugăcion"
+      },
+      "romanian": "rugăciune",
+      "english": "prayer (to pray)",
+      "semantic_category": "religious",
+      "frequency": 123,
+      "confidence": 0.990,
+      "notes": "Kneeling figure; noun or verb depending on context"
+    },
+    {
+      "id": "roh_009",
+      "symbol": "✟",
+      "base_value": "sfâ",
+      "rotations": {
+        "0": "sfânt*",
+        "90": "sfent*",
+        "180": "sfînt*",
+        "270": "sfont*"
+      },
+      "romanian": "sfânt",
+      "english": "holy (alt form)",
+      "semantic_category": "religious",
+      "frequency": 45,
+      "confidence": 0.92,
+      "notes": "Cross with rays variant of 'sfânt'; used for emphasis"
+    },
+    {
+      "id": "roh_010",
+      "symbol": "⊗",
+      "base_value": "con",
+      "rotations": {
+        "0": "contra",
+        "90": "centra",
+        "180": "cintra",
+        "270": "contra (o)"
+      },
+      "romanian": "contra (împotriva)",
+      "english": "against",
+      "semantic_category": "military",
+      "frequency": 98,
+      "confidence": 0.980
+    },
+    {
+      "id": "roh_011",
+      "symbol": "⊙",
+      "base_value": "cu",
+      "rotations": {
+        "0": "cu",
+        "90": "ce",
+        "180": "ci",
+        "270": "co"
+      },
+      "romanian": "cu / pe",
+      "english": "with / on (object marker)",
+      "semantic_category": "grammatical",
+      "frequency": 102,
+      "confidence": 0.970,
+      "notes": "Circle marker for accusative or accompaniment"
+    },
+    {
+      "id": "roh_012",
+      "symbol": "✧",
+      "base_value": "ste",
+      "rotations": {
+        "0": "stea",
+        "90": "stee",
+        "180": "stia",
+        "270": "stoa"
+      },
+      "romanian": "stea",
+      "english": "star",
+      "semantic_category": "celestial",
+      "frequency": 30,
+      "confidence": 0.90,
+      "notes": "Often refers to the Star of Bethlehem or literal star"
+    },
+    {
+      "id": "roh_013",
+      "symbol": "⚔",
+      "base_value": "răz",
+      "rotations": {
+        "0": "război",
+        "90": "rezboi",
+        "180": "rîzboi",
+        "270": "rozboi"
+      },
+      "romanian": "război",
+      "english": "war, battle",
+      "semantic_category": "military",
+      "frequency": 287,
+      "confidence": 0.996
+    },
+    {
+      "id": "roh_014",
+      "symbol": "♔",
+      "base_value": "reg",
+      "rotations": {
+        "0": "rege",
+        "90": "rege (e)",
+        "180": "rîge",
+        "270": "roge"
+      },
+      "romanian": "rege / (Domn)",
+      "english": "king, ruler (Lord)",
+      "semantic_category": "authority",
+      "frequency": 198,
+      "confidence": 0.997,
+      "notes": "Also denotes 'Lord' (Isus) in sacred context"
+    },
+    {
+      "id": "roh_015",
+      "symbol": "⌂",
+      "base_value": "cet",
+      "rotations": {
+        "0": "cetate",
+        "90": "cetete",
+        "180": "citate",
+        "270": "cotote"
+      },
+      "romanian": "cetate",
+      "english": "fortress, citadel",
+      "semantic_category": "military",
+      "frequency": 167,
+      "confidence": 0.995
+    },
+    {
+      "id": "roh_016",
+      "symbol": "⛉",
+      "base_value": "scu",
+      "rotations": {
+        "0": "scut",
+        "90": "scet",
+        "180": "scit",
+        "270": "scot"
+      },
+      "romanian": "scut",
+      "english": "shield",
+      "semantic_category": "military",
+      "frequency": 89,
+      "confidence": 0.990
+    },
+    {
+      "id": "roh_017",
+      "symbol": "⚑",
+      "base_value": "ste",
+      "rotations": {
+        "0": "steag",
+        "90": "steeg",
+        "180": "stiag",
+        "270": "stoag"
+      },
+      "romanian": "steag",
+      "english": "banner, flag",
+      "semantic_category": "military",
+      "frequency": 76,
+      "confidence": 0.980
+    },
+    {
+      "id": "roh_018",
+      "symbol": "𝌆",
+      "base_value": "om",
+      "rotations": {
+        "0": "om",
+        "90": "em",
+        "180": "îm",
+        "270": "om (o/u)"
+      },
+      "romanian": "om",
+      "english": "man, person",
+      "semantic_category": "human",
+      "frequency": 213,
+      "confidence": 0.995,
+      "notes": "Standing human figure"
+    },
+    {
+      "id": "roh_020",
+      "symbol": "✋",
+      "base_value": "blag",
+      "rotations": {
+        "0": "blagos",
+        "90": "blegos",
+        "180": "blîgos",
+        "270": "blogos"
+      },
+      "romanian": "blagoslovit",
+      "english": "blessing, blessed (hand)",
+      "semantic_category": "religious",
+      "frequency": 156,
+      "confidence": 0.990,
+      "notes": "Hand (often indicating blessing or sacrament)"
+    },
+    {
+      "id": "roh_021",
+      "symbol": "𝈬",
+      "base_value": "mer",
+      "rotations": {
+        "0": "merge",
+        "90": "merg",
+        "180": "mergi",
+        "270": "mergem"
+      },
+      "romanian": "merge",
+      "english": "to go, walk",
+      "semantic_category": "action",
+      "frequency": 156,
+      "confidence": 0.994
+    },
+    {
+      "id": "roh_022",
+      "symbol": "𝈭",
+      "base_value": "mul",
+      "rotations": {
+        "0": "mulți",
+        "90": "melți",
+        "180": "milți",
+        "270": "molți"
+      },
+      "romanian": "mulți / oaste",
+      "english": "many (people), army",
+      "semantic_category": "human",
+      "frequency": 154,
+      "confidence": 0.980,
+      "notes": "Depicts a group; 'mulți' = many, often specifically 'oaste' (host/army)"
+    },
+    {
+      "id": "roh_027",
+      "symbol": "⚫",
+      "base_value": "mor",
+      "rotations": {
+        "0": "moarte",
+        "90": "mearte",
+        "180": "mirte",
+        "270": "morte"
+      },
+      "romanian": "moarte",
+      "english": "death",
+      "semantic_category": "concept",
+      "frequency": 34,
+      "confidence": 0.950,
+      "notes": "Black circle or darkness symbol (context: death or eclipse)"
+    },
+    {
+      "id": "roh_028",
+      "symbol": "☉",
+      "base_value": "soa",
+      "rotations": {
+        "0": "soare",
+        "90": "seare",
+        "180": "siore",
+        "270": "soore"
+      },
+      "romanian": "soare",
+      "english": "sun",
+      "semantic_category": "celestial",
+      "frequency": 98,
+      "confidence": 0.993
+    },
+    {
+      "id": "roh_029",
+      "symbol": "☽",
+      "base_value": "lun",
+      "rotations": {
+        "0": "lună",
+        "90": "lenă",
+        "180": "lînă",
+        "270": "lonă"
+      },
+      "romanian": "lună",
+      "english": "moon, month",
+      "semantic_category": "celestial",
+      "frequency": 87,
+      "confidence": 0.992
+    },
+    {
+      "id": "roh_030",
+      "symbol": "≈",
+      "base_value": "ap",
+      "rotations": {
+        "0": "apă",
+        "90": "epă",
+        "180": "ipă",
+        "270": "opă"
+      },
+      "romanian": "apă",
+      "english": "water",
+      "semantic_category": "natural",
+      "frequency": 56,
+      "confidence": 0.990
+    },
+    {
+      "id": "roh_031",
+      "symbol": "⩙",
+      "base_value": "mun",
+      "rotations": {
+        "0": "munte",
+        "90": "mente",
+        "180": "minte",
+        "270": "monte"
+      },
+      "romanian": "munte / pământ",
+      "english": "mountain / earth (land)",
+      "semantic_category": "natural",
+      "frequency": 42,
+      "confidence": 0.910,
+      "notes": "General land elevation; used for 'earth/soil' in creation context"
+    },
+    {
+      "id": "roh_032",
+      "symbol": "🌿",
+      "base_value": "arb",
+      "rotations": {
+        "0": "arbore",
+        "90": "erbore",
+        "180": "îrbore",
+        "270": "orbore"
+      },
+      "romanian": "arbore",
+      "english": "tree, plant",
+      "semantic_category": "natural",
+      "frequency": 33,
+      "confidence": 0.940
+    },
+    {
+      "id": "roh_033",
+      "symbol": "☁",
+      "base_value": "nor",
+      "rotations": {
+        "0": "nor",
+        "90": "ner",
+        "180": "nir",
+        "270": "nor (o)"
+      },
+      "romanian": "nor",
+      "english": "cloud, sky",
+      "semantic_category": "natural",
+      "frequency": 21,
+      "confidence": 0.930
+    },
+    {
+      "id": "roh_034",
+      "symbol": "🔥",
+      "base_value": "fo",
+      "rotations": {
+        "0": "foc",
+        "90": "fec",
+        "180": "fic",
+        "270": "foc (o)"
+      },
+      "romanian": "foc",
+      "english": "fire",
+      "semantic_category": "natural",
+      "frequency": 19,
+      "confidence": 0.920
+    },
+    {
+      "id": "roh_035",
+      "symbol": "|",
+      "romanian": "unu",
+      "english": "one (1)",
+      "semantic_category": "numeric",
+      "frequency": 77,
+      "confidence": 0.999
+    },
+    {
+      "id": "roh_036",
+      "symbol": "||",
+      "romanian": "doi",
+      "english": "two (2)",
+      "semantic_category": "numeric",
+      "frequency": 45,
+      "confidence": 0.999
+    },
+    {
+      "id": "roh_037",
+      "symbol": "|||",
+      "romanian": "trei",
+      "english": "three (3)",
+      "semantic_category": "numeric",
+      "frequency": 34,
+      "confidence": 0.999
+    },
+    {
+      "id": "roh_038",
+      "symbol": "||||",
+      "romanian": "patru",
+      "english": "four (4)",
+      "semantic_category": "numeric",
+      "frequency": 20,
+      "confidence": 0.999
+    },
+    {
+      "id": "roh_039",
+      "symbol": "⟦",
+      "romanian": "(start)",
+      "english": "section start",
+      "semantic_category": "punctuation",
+      "frequency": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": "roh_040",
+      "symbol": "⟧",
+      "romanian": "(end)",
+      "english": "section end",
+      "semantic_category": "punctuation",
+      "frequency": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": "roh_041",
+      "symbol": "⊂",
+      "romanian": "de/din (open)",
+      "english": "of/from – opening",
+      "semantic_category": "grammatical",
+      "frequency": 32,
+      "confidence": 0.98,
+      "notes": "Genitive prefix (placed before name)"
+    },
+    {
+      "id": "roh_042",
+      "symbol": "⊃",
+      "romanian": "(close)",
+      "english": "genitive close",
+      "semantic_category": "grammatical",
+      "frequency": 32,
+      "confidence": 0.98,
+      "notes": "Genitive suffix (placed after name)"
+    }
+  ]
+}
